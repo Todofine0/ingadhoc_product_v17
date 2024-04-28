@@ -19,7 +19,7 @@
 ##############################################################################
 {
     'name': 'Product UOMS Purchase',
-    'version': "16.0.1.0.0",
+    'version': "17.0.1.0.0",
     'category': 'base.module_category_knowledge_management',
     'author': 'ADHOC SA',
     'website': 'www.adhoc.com.ar',
